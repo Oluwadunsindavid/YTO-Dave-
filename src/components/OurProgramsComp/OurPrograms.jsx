@@ -31,7 +31,7 @@ const OurPrograms = () => {
   return (
     <>
       <div className=" sm:flex sm:items-center sm:justify-center">
-        <h2 className=" text-left sm:text-center font-semibold text-[32px] mb-4">
+        <h2 className=" text-left sm:text-center font-semibold text-[32px] mb-4 px-6 lg:px-20">
           Our Programs
         </h2>
       </div>

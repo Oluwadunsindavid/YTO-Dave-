@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.field.mess {
+    /* height: 200px; */
+    resize: none;
+}
